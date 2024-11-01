@@ -1,0 +1,12 @@
+title: Change - Versioning
+subtitle: Managing the change across APIs using versioning.
+tags:
+- Change
+- Versioning
+- Versions
+author: kin
+visibility: public
+business: Change is an inevitable part of business.
+technology: Versioning is done using Semantic Versioning.
+policies: There are multiple policies governing versioning.
+people: Versioning is about communicating change.

@@ -1,0 +1,44 @@
+---
+"$schema": http://json-schema.org/2020-12/schema
+type: object
+description: Machine-readable guidance meant for humans to consume.
+properties:
+  title:
+    type: string
+    description: The title of the guidance being offered.
+  subtitle:
+    type: string
+    description: A short summary of the guidance being offered.
+  tags:
+    type: array
+    description: The key words or phrases applied to guidance.
+    items:
+    - type: string
+  author:
+    type: string
+    description: The human author of the guidance.
+  visibility:
+    type: string
+    description: Whether it is public or private.
+  business:
+    type: string
+    description: The business implications of the guidance.
+  technology:
+    type: string
+    description: What technology is involved with guidance.
+  policies:
+    type: string
+    description: What policies apply to area of guidance.
+  people:
+    type: string
+    description: What are the human impacts of this guidance.
+required:
+- title
+- subtitle
+- tags
+- author
+- visibility
+- business
+- technology
+- policies
+- people
