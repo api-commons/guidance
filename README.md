@@ -88,3 +88,10 @@ A machine-readable building block from **[API Commons](https://apicommons.org)**
 - [rules](https://github.com/api-commons/rules) — the Spectral rules this guidance supports at lint time
 - [lifecycle](https://github.com/api-commons/lifecycle) — the stages every API moves through
 - [experiences](https://github.com/api-commons/experiences) — the developer experiences an API program offers
+
+## License
+
+The artifacts in this repository — the schemas, examples, and API descriptions — are
+licensed **[CC BY-NC-SA 4.0](LICENSE)** (Attribution–NonCommercial–ShareAlike).
+
+API Commons licenses **artifacts** under CC BY-NC-SA 4.0 and **code** under Apache-2.0.
